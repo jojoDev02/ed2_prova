@@ -31,7 +31,7 @@ Se Q < -1:
 
 Uma árvore B de ordem 4 é essencialmente uma árvore 2-3 (embora existam algumas difereças que destacaremos adiante).
 
-Aplicações 
+APLICAÇÕES:
 
 Árvores B são a estrutura subjacente a muitos sistemas de arquivos e bancos de dados.  Por exemplo,
 
