@@ -25,7 +25,7 @@ Se Q < -1:
     
     A raiz contém no mínimo 2 chaves e cada um dos demais nós contém no mínimo M/2 chaves,
     
-    Cada nó que não seja uma folha tem um filho para cada uma de suas chaves,
+    Cada nó que não seja uma folha tem um filho para cada uma de suas chaves, ou seja, o número de filhos do nó deve ser o número de chaves +1
     
     Todos os caminhos da raiz até uma folha têm o mesmo comprimento (ou seja, a árvore é perfeitamente balanceada). 
 
